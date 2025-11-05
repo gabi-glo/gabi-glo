@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabi-glo
 
-- 🌱 I’m currently learning css/html/Js 
+- 🌱 I’m  a student Rocketseat student currently learning css/html/Js
 - 📫 How to reach me > linkedin: www.linkedin.com/in/gabriela-oliveira-7326101b2
   
 - 😄 Pronouns:she/her
